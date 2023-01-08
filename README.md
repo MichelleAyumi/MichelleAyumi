@@ -1,8 +1,7 @@
 ### Olaa
 
 - 🔭 Trabalhando atualmente com manutenção e suporte
-- 🌱 Estudando Java e Kotlin
-- 😄 Pronouns: Ela/Dela
+- 🌱 Estudando Java 
 
 <div align="center">
   
